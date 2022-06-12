@@ -2,4 +2,4 @@
 
 **Módulo HTML/CSS
 
-***Projeto de portifólio elaborado utilizando HTML e CSS
+***Projeto de portfólio elaborado utilizando HTML e CSS
